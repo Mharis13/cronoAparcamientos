@@ -48,8 +48,8 @@ class DashboardFragment : Fragment() {
                     .build()
 
                 val adapter = ParkingAdapter(options)
-                binding.rvPhotoSpots.adapter = adapter
-                binding.rvPhotoSpots.layoutManager = LinearLayoutManager(requireContext())
+                binding.rvParkings.adapter = adapter
+                binding.rvParkings.layoutManager = LinearLayoutManager(requireContext())
             }
         }
 
