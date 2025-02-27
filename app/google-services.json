@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "209189684357",
+    "firebase_url": "https://aparcamiento-a2f74-default-rtdb.firebaseio.com",
+    "project_id": "aparcamiento-a2f74",
+    "storage_bucket": "aparcamiento-a2f74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209189684357:android:8f2d823e2d015f96e855ec",
+        "android_client_info": {
+          "package_name": "com.marioban2dam.aparcamiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209189684357-fgptpdn7lr0l65mfokmk5n0njr99nmr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC135UHkvoPfJBxiH_ScJ29ZY9bVBIj5A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209189684357-fgptpdn7lr0l65mfokmk5n0njr99nmr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209189684357:android:e93b47cd4a9f38d8e855ec",
+        "android_client_info": {
+          "package_name": "com.marioban2dam.aparcamientos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209189684357-fgptpdn7lr0l65mfokmk5n0njr99nmr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC135UHkvoPfJBxiH_ScJ29ZY9bVBIj5A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209189684357-fgptpdn7lr0l65mfokmk5n0njr99nmr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209189684357:android:082495ecefaa6fd1e855ec",
+        "android_client_info": {
+          "package_name": "com.marioban2dam.cronoaparcamientos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209189684357-fgptpdn7lr0l65mfokmk5n0njr99nmr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC135UHkvoPfJBxiH_ScJ29ZY9bVBIj5A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209189684357-fgptpdn7lr0l65mfokmk5n0njr99nmr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
